@@ -1,1 +1,2 @@
-product_info.proto
+client/ecommerce/product_info.proto
+service/ecommerce/product_info.proto
